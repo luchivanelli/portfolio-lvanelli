@@ -14,7 +14,7 @@
     }
 </script>
 
-<div class="text-center flex justify-between items-center px-5 border-b-2">
+<div class="text-center flex justify-evenly items-center px-5 border-b-2">
     <h1 class="font-medium lg:text-4xl dark:text-white"><b class="bg-gradient-to-b from-violeta via-azul to-celeste text-transparent bg-clip-text">LV</b>anelli</h1>
     <button class="lg:hidden absolute right-16 text-black p-1 border-2 border-black rounded-full cursor-pointer hover:text-white hover:bg-black transition-colors dark:border-white dark:text-white dark:hover:bg-white dark:hover:text-black" on:click={handleMode}>
         <svg id="button-dark" xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-moon hidden" width="20" height="20" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M12 3c.132 0 .263 0 .393 0a7.5 7.5 0 0 0 7.92 12.446a9 9 0 1 1 -8.313 -12.454z" /></svg>
