@@ -9,7 +9,7 @@
     import Contact from './components/Contact.svelte';
 </script>
 
-<div class="app dark:bg-black scroll-smooth">
+<div class="app dark:bg-black">
     <Navbar />
     <Home />
     <About />

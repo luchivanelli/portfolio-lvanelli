@@ -1,6 +1,6 @@
 <script>
     import foto from '../assets/foto.jpg'
-    import cv from '../assets/Luciana Vanelli CV.pdf'
+    import cv from '../assets/Luciana Vanelli.pdf'
 </script>
 
 <section class="mt-16">
